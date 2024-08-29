@@ -1,1 +1,1 @@
-Examples of emails made with HTML and CSS
+Example of email, made with HTML and CSS
